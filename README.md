@@ -3,7 +3,7 @@
 
 Pose running on Android´s GPU
 
-Build on Unity3D Editor on Windows, Unity 2021.3.5f1
+Build on Unity3D Editor on Windows, Unity 2021.3.5f1 and MediaPipeUnityPlugin 0.10.0
 
 Prebuilt package and samples from with https://github.com/homuler/MediaPipeUnityPlugin
 
