@@ -9,4 +9,5 @@ Prebuilt package and samples from with https://github.com/homuler/MediaPipeUnity
 
 Thanks to @homuler (https://github.com/homuler) and @vimalmollyn (https://github.com/VimalMollyn) for help.
 
-![Screenshot_20220712-094844_Device care](https://user-images.githubusercontent.com/32485137/178518183-ebfe7237-5cc9-4d39-8fc0-685409d04dcf.jpg)
+
+![178513207-f9f0ab60-13cb-435a-a94d-dc4f232bba47](https://user-images.githubusercontent.com/32485137/178518345-61908af1-4c9a-4c54-91db-1c938775b852.jpg)
